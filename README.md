@@ -25,7 +25,7 @@ a personal project that allows users to store and manage their wishlist items fr
 
 # Backend
 
-- Node.js with Express.js for API development.
+- Next JS
 - MongoDB for storing user data and wishlist items.
 - JWT (JSON Web Tokens) for secure authentication and session handling.
 - OpenAI API for sentiment analysis and product recommendations.
