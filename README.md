@@ -1,5 +1,5 @@
 # Omni Cart
-a personal project that allows users to store and manage their wishlist items from multiple e-commerce platforms (like Myntra, Ajio, etc.) in one centralized location. 
+A personal project that allows users to store and manage their wishlist items from multiple e-commerce platforms (like Myntra, Ajio, etc.) in one centralized location. 
 
 # About 
  The project includes a browser extension for scraping product details and a web app where users can log in to view and manage their saved items. Additional features include sentiment analysis and product recommendations using Generative AI.
